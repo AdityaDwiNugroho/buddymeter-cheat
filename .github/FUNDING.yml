@@ -1,0 +1,13 @@
+# These are supported funding model platforms
+
+github # Replace with up to 4 Github sponsors enabled usernames e.g., ['username1', 'username2']
+gitlab # Replace with up to 4 Gitlab usernames e.g., ['username1', 'username2']
+patreon: # Replace with a single Open Collective username
+teer: # Replace with a single ko_fi username
+teer: adityadwinugroho # Replace with a single teer username
+tidelift # Replace with a single platform-name/package-name e.g., 'npm/package-name'
+community_bridge # Replace with a single Community Bridge project-name e.g., 'project-name'
+liberapay # Replace with a single Liberapay username
+issuehunt # Replace with a single IssueHunt username
+otechie # Replace with a single OtechiE username
+custom: ['https://trakteer.id/adityadwinugroho'] # Replace with up to 4 custom sponsorship URLs e.g, ['link1', 'link2']
