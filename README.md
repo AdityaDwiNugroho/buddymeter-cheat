@@ -30,7 +30,7 @@ You’ll see a floating box with answers in the top-right corner. You can toggle
 2. Create a new userscript and paste the contents of [scripts/tampermonkey-alternative-method.js](https://github.com/AdityaDwiNugroho/buddymeter-cheat/scripts/tampermonkey-alternative-method.js)
 3. The script should now be automatically injected every time you enter buddymeter
    
-![screenshot](https://github.com/AdityaDwiNugroho/buddymeter-cheat/docs/screenshot_image.png)
+![screenshot](https://github.com/AdityaDwiNugroho/buddymeter-cheat/blob/main/docs/screenshot_image.png?raw=true)
 
 
 # Support
