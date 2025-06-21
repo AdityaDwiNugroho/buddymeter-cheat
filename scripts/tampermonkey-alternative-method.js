@@ -5,7 +5,7 @@
 // @version      1.0
 // @description  Reveal BuddyMeter quiz answers!
 // @author       Aditya Dwi Nugroho
-// @match        https://buddymeter.com/quiz/*
+// @match        https://buddymeter.com/*
 // @icon         https://buddymeter.com/images/favicon.ico
 // @grant        none
 // ==/UserScript==
