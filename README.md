@@ -35,4 +35,4 @@ You’ll see a floating box with answers in the top-right corner. You can toggle
 
 # Support
 If you'd like to support this project, you can sponsor me on Trakteer.id:
-[https://trakteer.id/adityadwinugroho](https://teer.id/adityadwinugroho)
+[https://teer.id/adityadwinugroho](https://teer.id/adityadwinugroho)
