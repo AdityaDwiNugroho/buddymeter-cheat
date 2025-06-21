@@ -86,9 +86,12 @@ document.addEventListener('keydown', (e) => {
   }
 });
 
-console.log('BuddyMeter Cheat injected');
-const msg = `%c
+setTimeout(() => {
+  console.log('BuddyMeter Cheat injected');
+  const msg = `%c
   Script created by Aditya Dwi Nugroho
   https://github.com/AdityaDwiNugroho/buddymeter-cheat
-`;
-console.log(msg, 'color: #38bdf8; font-weight: bold; font-size: 13px;');
+  `;
+  console.log(msg, 'color: #38bdf8; font-weight: bold; font-size: 13px;');
+}, 1000);
+
