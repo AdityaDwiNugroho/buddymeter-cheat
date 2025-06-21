@@ -25,7 +25,7 @@ fetch("https://raw.githubusercontent.com/AdityaDwiNugroho/buddymeter-cheat/main/
 ```
 You’ll see a floating box with answers in the top-right corner. You can toggle visibility using the Delete key or the button.
 
-### Option 2: Automatically load with [Tampermonkey](https://tampermonkey.net/)
-1. Install Tampermonkey browser extension.
+### Option 2: Automatically load with Tampermonkey
+1. Install [https://www.tampermonkey.net/](https://www.tampermonkey.net/) browser extension.
 2. Create a new userscript and paste the contents of scripts/tampermonkey-alternative-method.js [scripts/tampermonkey-alternative-method.js](https://github.com/AdityaDwiNugroho/buddymeter-cheat/scripts/tampermonkey-alternative-method.js)
 3. The script should now be automatically injected every time you enter buddymeter
